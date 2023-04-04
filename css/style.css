@@ -11,8 +11,8 @@ html {
 }
 
 .container {
-    height: 300px;
-    width: 300px;
+    height: 400px;
+    width: 400px;
     border: 2px solid #000000;
     border-radius: 5px;
     margin: 10rem auto;
@@ -26,6 +26,7 @@ html {
 .container > input, .container button {
     display: block;
     margin: 1rem auto;
+    margin-top: 1.5rem;
 }
 
 .container button {
